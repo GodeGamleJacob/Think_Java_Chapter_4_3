@@ -23,3 +23,11 @@ public class Main {                             //
         System.out.println(".");                //10 + 19 + 30
     }                                           //11 + 20 + 31
 }                                               //35
+
+//The output of this program is:
+
+    /*
+    No, I wug.
+    You wugga wug.
+    I wug.
+    */
