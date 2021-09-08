@@ -12,7 +12,7 @@ Below is a screenshot of one of the outputs.
 
 <details><summary><strong>Pictures</strong></summary> <p>
 
-![image]![OPG 4 3](https://user-images.githubusercontent.com/89967283/132508071-5b05009e-1c2c-4a41-9ea0-019d2365257f.png)
+![OPG 4 3](https://user-images.githubusercontent.com/89967283/132508071-5b05009e-1c2c-4a41-9ea0-019d2365257f.png)
 
 </p>
 </details>
